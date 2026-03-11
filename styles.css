@@ -95,7 +95,7 @@ nav {
 
  .about-me__info {
     display: flex;
-    flex-direction: column;;
+    flex-direction: column;
  }
 
  .about-me__info--container {
